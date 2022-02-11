@@ -1,5 +1,6 @@
 ## Hi! I'm Thiago Ximenes, welcome! 
--- Working on my developer skills at Trybe
+-- I'm a Front end Developer
+-- Working on my Back end skills at Trybe
  <div>
   <a href="https://github.com/thiago-ximenes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-ximenes&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
