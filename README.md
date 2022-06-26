@@ -1,6 +1,6 @@
 ## Hi! I'm Thiago Ximenes, welcome! 
-<p>-- I'm a Front end Developer</p>
-<p>-- Working on my Back end skills at Trybe</p>
+<p>-- I'm a Fullstack Software Engenier</p>
+<p>-- Always Learning</p>
  <div>
   <a href="https://github.com/thiago-ximenes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-ximenes&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
