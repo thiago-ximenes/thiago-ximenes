@@ -5,7 +5,7 @@
 
 <p>My first professional experience in the field made me passionate about delivering value to the real world!</p>
 
-<p>I have profissional experience in React development</p>
+<p>I have professional experience in React development.</p>
 
 <p>I am proficient in Nodejs and the derivatives of Typescript and Javascript. But I'm not limited by languages.</p>
 
