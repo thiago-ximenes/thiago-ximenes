@@ -5,6 +5,8 @@
 
 <p>My first professional experience in the field made me passionate about delivering value to the real world!</p>
 
+<p>I have profissional experience in React development</p>
+
 <p>I am proficient in Nodejs and the derivatives of Typescript and Javascript. But I'm not limited by languages.</p>
 
 <p>Tools I like to work with: Docker, Nestjs, Express, Jest, React, Django, and TypeOrm (Mongoose for MongoDB)</p>
@@ -44,4 +46,8 @@
   <a href = "mailto:thiago@digitalximenes.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-ximenes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://api.whatsapp.com/send?phone=5521981542501" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ </div>
+ <div>
+  <h2>Take a look at my curriculum</h2>
+  <a target="_blank" href="https://drive.google.com/file/d/1en7-RpfQan2MkVKdt1bd5_Qmn_2Ru8Y5/view?usp=sharing">Curriculum</a>
  </div>
