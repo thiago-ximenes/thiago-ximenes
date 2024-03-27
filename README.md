@@ -9,7 +9,7 @@
 
 <p>I am proficient in Nodejs and the derivatives of Typescript and Javascript. But I'm not limited by languages.</p>
 
-<p>Tools I like to work with: Docker, Nestjs, Express, Jest, React, Django, and TypeOrm (Mongoose for MongoDB)</p>
+<p>Tools I like to work with: Docker, Nestjs, Express, Jest, React, Nextjs, Laravel, Symfony and TypeOrm (Mongoose for MongoDB)</p>
 
 <p>I'm ready to be challenged! Feel free to let me help you.</p>
 
@@ -26,6 +26,8 @@
   <img align="center" alt="Thiago-MySQL" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Thiago-MongoDB" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Thiago-Linux" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Thiago-Laravel" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg">
+  <img align="center" alt="Thiago-Symfony" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original-wordmark.svg">
 </div>
 <br />
 <div id="buttons"> 
