@@ -13,7 +13,7 @@
 
 <p>I'm ready to be challenged! Feel free to let me help you.</p>
 
-<div style="display: inline_block"><br>
+<div>
   <img align="center" alt="Thiago-TS" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Thiago-Nodejs" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Thiago-Nestjs" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" /> 
@@ -38,5 +38,5 @@
  </div>
  <div>
   <h2>Take a look at my curriculum</h2>
-  <a target="_blank" href="https://drive.google.com/file/d/1en7-RpfQan2MkVKdt1bd5_Qmn_2Ru8Y5/view?usp=sharing">Curriculum</a>
+  <a target="_blank" href="https://drive.google.com/file/d/1-8E5nQR_zUW5UxO9zFJKfHvcbSVc_Gwn/view?usp=drive_link">Curriculum</a>
  </div>
